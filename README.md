@@ -6,7 +6,7 @@
 - deployments: a higher-level object that provides updates for Pods and ReplicaSets.
 - replicaSets: a set of horizontally scaled running Pods.
 
-* labels are key/value pairs attached to objects.
+labels are key/value pairs attached to objects.
 
 **Service** (a REST object, like Pods)
 - ClusterIp: assined a cluster-internal IP address that makes the Service only reachable within cluster.<br>
