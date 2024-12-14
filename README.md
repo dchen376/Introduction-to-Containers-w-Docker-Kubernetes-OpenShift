@@ -21,3 +21,7 @@ labels are key/value pairs attached to objects.
 **Kubectl** (Kube Control)<br>
 It is the Kubernetes command line Interface (CLI)<br>
 Kubectl [command] [type] [name] [flags]<br>
+
+
+**Red Hat OpenShift**
+![image](https://github.com/user-attachments/assets/8c943a74-67e0-490a-8047-900451312ac8)
